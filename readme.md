@@ -1,7 +1,4 @@
-from pathlib import Path
-
-readme_content = """
-# 🌸✨ RideNow - Tu Viaje, Tu Ritmo ✨🌸
+# 🌸✨ Diseño reflexivo de endpoints (App de transporte tipo Uber) ✨🌸
 
 ## 👩‍💻 Autoras
 - 🌷 Valentina Delgado
