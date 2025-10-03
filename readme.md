@@ -217,7 +217,7 @@
 }
 ```
 --- 
-## 🚨 Mejoras
+## 🔧 Mejoras
 
 Como posibles mejoras futuras para la API de RideNow se podrían incluir: un sistema avanzado de seguimiento en tiempo real usando WebSockets para que pasajeras y conductoras visualicen la ubicación actualizada del viaje sin hacer múltiples peticiones; un módulo de promociones y descuentos que permita crear, listar y aplicar códigos promocionales para incentivar el uso de la plataforma; una gestión más completa de vehículos, donde las conductoras puedan registrar múltiples vehículos, llevar historial de mantenimiento y controlar documentos obligatorios con alertas; y finalmente, una funcionalidad de chat integrado para facilitar la comunicación directa entre pasajera y conductora durante el viaje, mejorando la coordinación y experiencia de usuario.
 
